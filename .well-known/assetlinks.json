@@ -1,0 +1,9 @@
+json
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.swiftdistribuidoracba.twa",
+    "sha256_cert_fingerprints": ["47:37:38:A3:30:D9:33:BD:A0:96:0E:43:35:E8:76:25:F3:1D:AF:BA:06:94:D4:7C:60:D4:38:5B:81:D4:49:46"]
+  }
+}]
